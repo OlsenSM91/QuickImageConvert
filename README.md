@@ -12,12 +12,15 @@ Quick Image Convert v0.3 is a handy tool designed to convert image files while a
 - Optional recursive operation through subdirectories.
 - Graphical User Interface for easy operation.
 - Console operation also supported with arguments.
+- Updated to include a macOS version and compiled binary/dmg
 
 ## Dependencies
 
 - Python 3
-- PIL (Pillow)
-- Tkinter
+- PIL (Pillow) (Windows)
+- python-image-resize (macOS)
+- Tkinter (Winters)
+- PyQt5 (macOS)
 
 ## Usage
 
