@@ -3,6 +3,7 @@
 Quick Image Convert v0.3 is a handy tool designed to convert image files while allowing users to define the output directory, format, maximum file size, and whether the operation should be carried out recursively through subdirectories.
 
 ![Screenshot 2023-10-04 001555](https://github.com/OlsenSM91/QuickImageConvert/assets/130707762/619d9e3c-a40b-468c-b210-712dbefe18e1)
+![quickimageconvert MAC](https://github.com/OlsenSM91/QuickImageConvert/assets/130707762/4266b2e3-3f33-4902-a129-5b5b29029418)
 
 
 ## Features
